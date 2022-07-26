@@ -182,7 +182,7 @@ function initEverything(){
     tl.add({
         targets : bgTwo,
         y : [window.innerHeight*1.5,-window.innerHeight],
-        easing : 'easeOutQuad',
+        easing : 'easeOutQuart',
         duration:3000
     })
     
